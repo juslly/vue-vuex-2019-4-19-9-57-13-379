@@ -1,10 +1,29 @@
-#### 用Vuex重写todoList。
-test 1
+# vuelist
 
-**将代码提交到自己的github账户，地址提交到这里。**
-### 要求
-* Git commit 小步提交
-* 每次提交的评论都有意义
+## Project setup
+```
+npm install
+```
 
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
+### Compiles and minifies for production
+```
+npm run build
+```
 
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
